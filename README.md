@@ -1,5 +1,4 @@
-![Uploading スクリーンショット 2025-04-18 17.21.57.png…]()
-
+<img width="712" alt="スクリーンショット 2025-04-18 17 21 57" src="https://github.com/user-attachments/assets/a9a2076f-3f74-4a29-8796-2e63c4a8a12b" />
 
 ### PC から CloudSQL の PostgreSQL に接続する方法
 
