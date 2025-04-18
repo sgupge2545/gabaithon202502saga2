@@ -1,3 +1,6 @@
+<img width="689" alt="スクリーンショット 2025-04-18 17 20 46" src="https://github.com/user-attachments/assets/2f5268b8-bcb7-4381-8296-9a3cda5c271b" />
+
+
 ### PC から CloudSQL の PostgreSQL に接続する方法
 
 1. Google Cloud SDK をインストールする
