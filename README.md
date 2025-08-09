@@ -1,3 +1,29 @@
+# 発表資料
+
+![スライド1](information/スライド1.png)
+
+![スライド2](information/スライド2.png)
+
+![スライド3](information/スライド3.png)
+
+![スライド4](information/スライド4.png)
+
+![スライド5](information/スライド5.png)
+
+![スライド6](information/スライド6.png)
+
+![スライド7](information/スライド7.png)
+
+![スライド8](information/スライド8.png)
+
+![スライド9](information/スライド9.png)
+
+![スライド10](information/スライド10.png)
+
+---
+
+<img width="712" alt="スクリーンショット 2025-04-18 17 21 57" src="https://github.com/user-attachments/assets/a9a2076f-3f74-4a29-8796-2e63c4a8a12b" />
+
 ### PC から CloudSQL の PostgreSQL に接続する方法
 
 1. Google Cloud SDK をインストールする
